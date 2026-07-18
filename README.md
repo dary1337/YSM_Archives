@@ -3,7 +3,7 @@
 **A version-pinned archive of Yokaiste's Sandbox Mod (YSM) and its collaborations for [WARNO](https://store.steampowered.com/app/1611600/WARNO/).**
 Every build here is tied to a specific WARNO game version, so you can always install the mod build that matches the exact version of WARNO you're running.
 
-YSM Community Discord: https://discord.gg/8AMXxnjngR
+YSM Community Discord: https://discord.gg/Wf9zjETGFS
 
 ## Get the mods
 
